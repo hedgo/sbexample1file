@@ -1,5 +1,7 @@
 # sbexample1file
 
+[SpringBoot 1.5.9]
+
 Szybki przyklad zainspirowany przez wideo Josh Longa na glownej stronie spring.io https://youtu.be/8RPdOmKtur0
 W jednej klasie jest: rest, repo jpa, sprign security. 5 minut i dziala....
 
