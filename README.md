@@ -1,6 +1,7 @@
 # sbexample1file
 
-Szybki projekt zainspirowany przez wideo Josh Longa na glownej stronie spring.io https://youtu.be/8RPdOmKtur0
+Szybki przyklad zainspirowany przez wideo Josh Longa na glownej stronie spring.io https://youtu.be/8RPdOmKtur0
+W jednej klasie jest: rest, repo jpa, sprign security. 5 minut i dziala....
 
 http://127.0.0.1:8080/customers
 [{"id":1,"name":"Jane"},{"id":2,"name":"Onsi"},{"id":3,"name":"Dave"},{"id":4,"name":"Mia"}]
